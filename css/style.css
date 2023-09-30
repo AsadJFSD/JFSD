@@ -8,10 +8,6 @@ html{
     scroll-behavior: smooth;
 }
 
-:root{
-    --navbar-height: 59px;
-}
-
 
 #navbar{
     display: flex;
